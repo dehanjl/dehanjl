@@ -1,31 +1,37 @@
 ### Greetings 👋🏻, I'm Dehan
 
-#### Quick Facts
+### Quick Facts
 - 🇿🇦 Currently based in sunny Pretoria, South Africa
 - 🎓 BEng Computer Engineering graduate from TUKS (University of Pretoria)
 - 💼 Currently working as a Software Engineer 👨🏻‍💻 at the BMW ZA IT Hub 🤖
 - 🌱 Currently learning about User Experience and Quantum Computing
 - ⌨️ My (currently) favourite languages are Rust 🦀 and Python 🐍
 
-<!-- ### About Me
-- Detail Orientated
-- Learning enthusiast
-- Make computers go fast -->
+### About Me
+I am a highly detail-oriented engineer with a passion for learning and adapting to new challenges. I thrive in team environments and have strong leadership qualities. I have a love for making computers go fast while tackling complex problems.
 
+### Interests
 #### Hobbies
 - 🏋🏻 Gym & fitness
 - 🐉 🎲 Boardgames & Tabletop Roleplaying Games
 - 🎸 Music
+- 🏎️ Motorsport
 - 📖 Reading
 - 🎮 Video games
 
 <!-- ## Technologies -->
 
-#### Industries Followed
+#### Industries
 - 🚗 Automotive
 - ✈️ Aerospace
-- 📱 Technology
 - ⚡️ Semiconductor
+
+<!-- ### More
+#### Reach Me
+- 🐙 Github: 
+- 📧 Email:
+- 🌐 Website:
+- 🔗 LinkedIn:  -->
 
 <!-- ## Programming Languages & Frameworks
 - Python
