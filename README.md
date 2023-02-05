@@ -31,14 +31,13 @@ I am a highly detail-oriented engineer with a passion for learning and adapting 
 - ✈️ Aerospace
 - ⚡️ Semiconductor
 
-### More
-#### Find Me
+### Find Me
 - 🐙 Github: [@dehan-jl](https://github.com/dehan-jl)
 - 📧 Email: [dehan.lamprecht@outlook.com](mailto:dehan.lamprecht@outlook.com)
 - 🔗 LinkedIn: [dehanjl](https://www.linkedin.com/in/dehanjl/)
 <!-- - 🌐 Website: [dehan-jl.io](https://dehan-jl.io) -->
 
-#### Programming Languages
+<!-- #### Programming Languages
 - Python
 - Rust
 - Java, Kotlin, & Groovy
@@ -57,7 +56,7 @@ I am a highly detail-oriented engineer with a passion for learning and adapting 
 - Flask
 - Spring Boot, Quarkus, & Spock
 - React
-- QT
+- QT -->
 
 
 <!--
