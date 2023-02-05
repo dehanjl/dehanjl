@@ -30,13 +30,12 @@ I am a highly detail-oriented engineer with a passion for learning and adapting 
 - 🚗 Automotive
 - ✈️ Aerospace
 - ⚡️ Semiconductor
-
+<!-- 
 ### Find Me
 - 🐙 Github: [@dehan-jl](https://github.com/dehan-jl)
 - 📧 Email: [dehan.lamprecht@outlook.com](mailto:dehan.lamprecht@outlook.com)
 - 🔗 LinkedIn: [dehanjl](https://www.linkedin.com/in/dehanjl/)
-<!-- - 🌐 Website: [dehan-jl.io](https://dehan-jl.io) -->
-
+- 🌐 Website: [dehan-jl.io](https://dehan-jl.io) -->
 <!-- #### Programming Languages
 - Python
 - Rust
@@ -47,8 +46,6 @@ I am a highly detail-oriented engineer with a passion for learning and adapting 
 - JavaScript & TypeScript
 - VHDL & Verilog
 - PostgreSQL
-
-
 #### Frameworks
 - Docker & Kubernetes
 - NumPy & Pandas
