@@ -2,7 +2,7 @@
 
 ### Quick Facts
 - 🇿🇦 Currently based in sunny Pretoria, South Africa
-- 🎓 BEng Computer Engineering graduate from TUKS (University of Pretoria)
+- 🎓 BEng Computer Engineering graduate from the University of Pretoria (TUKS)
 - 💼 Currently working as a Software Engineer 👨🏻‍💻 at the BMW ZA IT Hub 🤖
 - 🌱 Currently learning about User Experience and Quantum Computing
 - ⌨️ My (currently) favourite languages are Rust 🦀 and Python 🐍
@@ -19,25 +19,45 @@ I am a highly detail-oriented engineer with a passion for learning and adapting 
 - 📖 Reading
 - 🎮 Video games
 
-<!-- ## Technologies -->
+#### Fields
+- 🕹 Simulation Technology
+- 🔒 Cybersecurity & Cryptography
+- 🧠 Artificial Intelligence
+- 🖥️ Microelectronics & Integrated Circuits
+- ⚛️ Quantum Computing
 
 #### Industries
 - 🚗 Automotive
 - ✈️ Aerospace
 - ⚡️ Semiconductor
 
-<!-- ### More
-#### Reach Me
-- 🐙 Github: 
-- 📧 Email:
-- 🌐 Website:
-- 🔗 LinkedIn:  -->
+### More
+#### Find Me
+- 🐙 Github: [@dehan-jl](https://github.com/dehan-jl)
+- 📧 Email: [dehan.lamprecht@outlook.com](mailto:dehan.lamprecht@outlook.com)
+- 🔗 LinkedIn: [dehanjl](https://www.linkedin.com/in/dehanjl/)
+<!-- - 🌐 Website: [dehan-jl.io](https://dehan-jl.io) -->
 
-<!-- ## Programming Languages & Frameworks
+#### Programming Languages
 - Python
 - Rust
-- Java
-- Typescript  -->
+- Java, Kotlin, & Groovy
+- Golang
+- C & C++
+- Assembly
+- JavaScript & TypeScript
+- VHDL & Verilog
+- PostgreSQL
+
+
+#### Frameworks
+- Docker & Kubernetes
+- NumPy & Pandas
+- Tensorflow
+- Flask
+- Spring Boot, Quarkus, & Spock
+- React
+- QT
 
 
 <!--
