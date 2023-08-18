@@ -4,7 +4,7 @@
 - 🇿🇦 Currently based in sunny Pretoria, South Africa
 - 🎓 BEng Computer Engineering graduate from the University of Pretoria (TUKS)
 - 💼 Currently working as a Software Engineer 👨🏻‍💻 at the BMW ZA IT Hub 🤖
-- 🌱 Currently learning about User Experience and Quantum Computing
+- 🌱 Currently learning about Cybersecurity and Autonomous Driving
 - ⌨️ My (currently) favourite languages are Rust 🦀 and Python 🐍
 
 ### About Me
@@ -12,7 +12,7 @@ I am a highly detail-oriented engineer with a passion for learning and adapting 
 
 ### Interests
 #### Hobbies
-- 🏋🏻 Gym & fitness
+- 🏋🏻 Gym & Fitness
 - 🐉 🎲 Boardgames & Tabletop Roleplaying Games
 - 🎸 Music
 - 🏎️ Motorsport
