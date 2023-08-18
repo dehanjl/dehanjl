@@ -25,6 +25,7 @@ I am a highly detail-oriented engineer with a passion for learning and adapting 
 - 🧠 Artificial Intelligence
 - 🖥️ Microelectronics & Integrated Circuits
 - ⚛️ Quantum Computing
+- 🚗 Autonomous Driving
 
 #### Industries
 - 🚗 Automotive
