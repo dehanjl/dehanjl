@@ -3,7 +3,7 @@
 ## Quick Facts
 - 🇿🇦 Currently based in between sunny Pretoria and beautiful Stellenbosch, South Africa
 - 🎓 BEng Computer Engineering graduate from the University of Pretoria (TUKS)
-- 💼 Currently working as a Software Engineer 👨🏻‍💻 at the BMW ZA IT Hub 🤖
+- 💼 Currently working as an AI Engineer 👨🏻‍💻 at Theodore AI 🤖
 - 🌱 Currently studying an [MSc in Machine Learning and Artificial Intelligence](https://mlai.sun.ac.za/) at Stellenbosch University
 - ⌨️ My (currently) favourite languages are Rust 🦀 and Python 🐍
 
